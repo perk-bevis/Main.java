@@ -23,7 +23,14 @@ public class main {
   }
 }
 //nhập dữ liệu từ bàn phím
-
+nextBoolean() đọc một giá trị boolean từ bàn phím 
+nextByte() đọc một giá trị byte từ bàn phím
+nextDouble() đọc một giá trị double từ bàn phím
+nextFloat() đọc một giá trị float từ bàn phím
+nextInt() đọc một giá trị int từ bàn phím
+nextLine() đọc một giá trị String từ bàn phím
+nextLong() đọc một giá trị long từ bàn phím
+nextShort() đọc một giá trị short từ bàn phím
 __________
 import java.util.Scanner;
 
