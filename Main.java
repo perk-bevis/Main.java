@@ -80,3 +80,20 @@ public class main {
     System.out.println("x = " + x);
   }
 }
+// phép toán trong java
+import java.util.Scanner;
+public class main {
+  public static void main(String[] args){
+    //khai báo biến
+    int a,b;
+    // nhập dữ liệu
+    Scanner sc = new Scanner(System.in);
+    System.out.println("nhap vao a = ");
+    // nhập dữ liệu từ bàn phím
+    a = sc.nextInt();
+    System.out.println("nhap vao b = ");
+    b = sc.nextInt();
+    int tong = a+b;
+    System.out.println(a +" + "+b+" = "+ tong);
+  }
+}
