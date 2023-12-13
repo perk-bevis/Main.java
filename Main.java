@@ -105,3 +105,24 @@ public class main {
     System.out.println(a +" % "+b+" = "+ soDu);
   }
 }
+//toán tử trong java
+public class main {
+  public static void main(String[] args) {
+    int a = 5;
+    boolean b = false;
+    System.out.println(" -a => giá tri: "+ (-a));
+    System.out.println(" +a => giá tri: "+ (+a));
+    System.out.println(" !b => giá tri: "+ (!b));
+    System.out.println("-------");
+    //++a giá trị tăng lên trước khi dòng lệnh đc thực thi 
+    System.out.println("a = "+ a);
+    System.out.println("++a = "+ ++a);
+    // a++ thực hiện dòng lệnh đó thực hiện xong ms tăng giá trị 
+    System.out.println("a++ = "+ a++);
+    System.out.println("a = "+ a);
+    //
+    System.out.println("--a = "+ (--a));
+    System.out.println("a-- = "+ (a--));
+    System.out.println("a = "+ a);
+  }
+}
