@@ -7,7 +7,7 @@ public class main {
 public class main {
   public static void main(String[] args){
     String thongBao = "Xin chao";
-    String hoVaTen = "Le Nhat Tung";
+    String hoVaTen = "Le Quy Doan";
     String tenSach;
     tenSach = "Lap Trinh Java";
     System.out.println("thong bao: " +thongBao);
